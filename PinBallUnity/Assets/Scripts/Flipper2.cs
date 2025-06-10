@@ -16,7 +16,7 @@ public class Flipper2 : MonoBehaviour
 
         if (Input.GetKey(key))
         {
-            motor.motorSpeed = 1000f; // Teste com positivo/negativo
+            motor.motorSpeed = 1000f; 
         }
         else
         {
